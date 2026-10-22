@@ -1,17 +1,22 @@
 ## 描述
 
-库优先的音乐管理器：从网易云下载、维护本地曲库、生成歌单，并可经 Wi‑Fi 把音频存到海贝播放器。网易 weapi/eapi 在 Go 侧；macOS 壳为 SwiftUI，经本机 GUI 服务通信。
+库优先的音乐管理器：从网易云下载、维护本地曲库、生成歌单，并可经 Wi‑Fi 把音频存到海贝播放器。网易 weapi/eapi 在 Go 侧；**macOS** 为 SwiftUI 壳，**Android** 为独立客户端。两端版本号独立（macOS 当前 2.1.0，Android 当前 0.5.12）。
 
-顶栏：**发现 / 下载 / 曲库 / 歌单**。登录仅支持扫码。
+macOS 顶栏：**发现 / 下载 / 曲库 / 歌单**。登录仅支持扫码。
 
 ## 使用说明
 
-**安装（macOS arm64）**
+**macOS arm64**
 
-1. 从 [Releases](https://github.com/Dlinuigh/MusicDownloader/releases) 下载 `MusicDownloader-*-macOS-arm64.dmg`。
+1. 从下方发行列表下载 `MusicDownloader-*-macOS-arm64.dmg`。
 2. 拖到「应用程序」。需 macOS 14+；若被拦截：系统设置 → 隐私与安全性 → 仍要打开。
 
-**日常**
+**Android**
+
+1. 从下方发行列表下载 `MusicDownloader-*-android.apk` 并安装。
+2. 允许未知来源（若系统提示）。
+
+**macOS 日常**
 
 - **发现**：日推 / 榜单，左右键评分，预览带歌词。
 - **下载**：粘贴 ID/URL/关键词，选音质，写入歌词与封面。
@@ -19,4 +24,4 @@
 - **歌单**：条件节点图导出相对路径 m3u；海贝开启时写入播放器 `playlist_data/`。
 - **海贝**：设置里开关存放、扫局域网、同步曲库（默认端口 4399）。
 
-源码仓为私有；公开入口以 Release 下载为主。
+源码仓为私有；下载以 Release 资源为准（需有权限访问该仓库的 Release）。

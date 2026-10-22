@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+- MusicDownloader / ForTune 详情页展示 GitHub Release 列表与下载附件
+- MusicDownloader 标注 macOS + Android；同步 Android 0.5.12 发行包
+- ForTune 更新至 1.1.8，链接公开仓库
 - 从作品集移除 Pluma（非本人项目）
 
 ## [0.1.0] - 2026-10-22

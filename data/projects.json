@@ -15,15 +15,17 @@
   {
     "id": "music-downloader",
     "name": "MusicDownloader",
-    "tagline": "网易云曲库优先的 macOS 音乐管理器",
+    "tagline": "网易云曲库优先的音乐管理器（macOS + Android）",
     "platforms": [
-      "macOS"
+      "macOS",
+      "Android"
     ],
-    "version": "2.1.0",
+    "version": "2.1.0 / 0.5.12",
     "public": false,
     "repo": null,
     "release": "https://github.com/Dlinuigh/MusicDownloader/releases",
-    "demo": null
+    "demo": null,
+    "releasesId": "music-downloader"
   },
   {
     "id": "playlist-generator",
@@ -71,11 +73,12 @@
     "platforms": [
       "Android"
     ],
-    "version": "1.1.3",
-    "public": false,
-    "repo": null,
-    "release": null,
-    "demo": null
+    "version": "1.1.8",
+    "public": true,
+    "repo": "https://github.com/Dlinuigh/ForTune",
+    "release": "https://github.com/Dlinuigh/ForTune/releases",
+    "demo": null,
+    "releasesId": "fortune"
   },
   {
     "id": "gravey-keep-2-planer",
