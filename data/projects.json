@@ -1,0 +1,200 @@
+[
+  {
+    "id": "comics-reader",
+    "name": "ComicsReader",
+    "tagline": "Android 漫画阅读器（PDF / CBZ）",
+    "platforms": ["Android"],
+    "version": "1.4.5",
+    "public": false,
+    "repo": null,
+    "release": null,
+    "demo": null
+  },
+  {
+    "id": "music-downloader",
+    "name": "MusicDownloader",
+    "tagline": "网易云曲库优先的 macOS 音乐管理器",
+    "platforms": ["macOS"],
+    "version": "2.1.0",
+    "public": false,
+    "repo": null,
+    "release": "https://github.com/Dlinuigh/MusicDownloader/releases",
+    "demo": null
+  },
+  {
+    "id": "playlist-generator",
+    "name": "PlaylistGenerator",
+    "tagline": "扫描本地曲库、评分并导出相对路径 m3u",
+    "platforms": ["macOS"],
+    "version": "2.0.1",
+    "public": true,
+    "repo": "https://github.com/Dlinuigh/PlaylistGenerator",
+    "release": "https://github.com/Dlinuigh/PlaylistGenerator/releases",
+    "demo": null
+  },
+  {
+    "id": "observe-mac-power",
+    "name": "ObserveMacPower",
+    "tagline": "Apple Silicon 菜单栏功耗监视器",
+    "platforms": ["macOS"],
+    "version": "0.2.0",
+    "public": true,
+    "repo": "https://github.com/Dlinuigh/ObserveMacPower",
+    "release": "https://github.com/Dlinuigh/ObserveMacPower/releases/tag/v0.2.0",
+    "demo": null
+  },
+  {
+    "id": "folio",
+    "name": "folio",
+    "tagline": "轻量本地图片 / PDF 查看器",
+    "platforms": ["macOS"],
+    "version": "0.2.0",
+    "public": true,
+    "repo": "https://github.com/Dlinuigh/folio",
+    "release": "https://github.com/Dlinuigh/folio/releases/tag/0.2.0",
+    "demo": null
+  },
+  {
+    "id": "fortune",
+    "name": "ForTune",
+    "tagline": "本机播放的网易云 Android 客户端",
+    "platforms": ["Android"],
+    "version": "1.1.3",
+    "public": false,
+    "repo": null,
+    "release": null,
+    "demo": null
+  },
+  {
+    "id": "gravey-keep-2-planer",
+    "name": "GraveyKeep2Planer",
+    "tagline": "守墓人2 地下工厂规划器 + GK2 插件",
+    "platforms": ["Web", "Game Mod"],
+    "version": "0.84.3",
+    "public": false,
+    "repo": null,
+    "release": null,
+    "demo": null
+  },
+  {
+    "id": "accurate-gain",
+    "name": "AccurateGain",
+    "tagline": "用两个架增益刻画当前耳机听感",
+    "platforms": ["Web"],
+    "version": "0.1.0",
+    "public": false,
+    "repo": null,
+    "release": null,
+    "demo": null
+  },
+  {
+    "id": "ultimate-qr",
+    "name": "UltimateQR",
+    "tagline": "二维码生成与扫描工具",
+    "platforms": ["Desktop"],
+    "version": null,
+    "public": true,
+    "repo": "https://github.com/Dlinuigh/UltimateQR",
+    "release": null,
+    "demo": null
+  },
+  {
+    "id": "dotdesk",
+    "name": "dotdesk",
+    "tagline": "基于 Graphviz DOT 的思维导图桌面应用",
+    "platforms": ["Desktop"],
+    "version": null,
+    "public": true,
+    "repo": "https://github.com/Dlinuigh/dotdesk",
+    "release": null,
+    "demo": null
+  },
+  {
+    "id": "tikz-drawer",
+    "name": "TikZ Drawer",
+    "tagline": "表单绘制 TikZ 图形并用本机 LaTeX 预览",
+    "platforms": ["Desktop"],
+    "version": null,
+    "public": true,
+    "repo": "https://github.com/Dlinuigh/tikz-drawer",
+    "release": null,
+    "demo": null
+  },
+  {
+    "id": "ultimate-sound",
+    "name": "Ultimate Sound",
+    "tagline": "跨平台本地音乐播放与歌单管理",
+    "platforms": ["Flutter"],
+    "version": null,
+    "public": true,
+    "repo": "https://github.com/Dlinuigh/ultimateSound",
+    "release": null,
+    "demo": null
+  },
+  {
+    "id": "curve-line",
+    "name": "CurveLine",
+    "tagline": "Apple Pencil 手写笔记与画布",
+    "platforms": ["iOS"],
+    "version": null,
+    "public": true,
+    "repo": "https://github.com/Dlinuigh/CurveLine",
+    "release": null,
+    "demo": null
+  },
+  {
+    "id": "lionql",
+    "name": "LionQL",
+    "tagline": "教学向自研 SQL 数据库实现",
+    "platforms": ["C/C++"],
+    "version": null,
+    "public": true,
+    "repo": "https://github.com/Dlinuigh/lionql",
+    "release": null,
+    "demo": null
+  },
+  {
+    "id": "pluma",
+    "name": "Pluma",
+    "tagline": "轻量 C++ 插件管理框架",
+    "platforms": ["C++"],
+    "version": null,
+    "public": true,
+    "repo": "https://github.com/Dlinuigh/pluma",
+    "release": null,
+    "demo": null
+  },
+  {
+    "id": "sloth-todo",
+    "name": "SlothTodo",
+    "tagline": "极简跨平台 Todo（Tauri，macOS 先行）",
+    "platforms": ["macOS"],
+    "version": null,
+    "public": false,
+    "repo": null,
+    "release": null,
+    "demo": null
+  },
+  {
+    "id": "maple",
+    "name": "Maple / DotMind",
+    "tagline": "离线优先的 PWA 思维导图（KaTeX + Graphviz）",
+    "platforms": ["Web", "PWA"],
+    "version": null,
+    "public": false,
+    "repo": null,
+    "release": null,
+    "demo": null
+  },
+  {
+    "id": "taiwu-of-building",
+    "name": "太吾 Build 工具",
+    "tagline": "太吾绘卷配装与功法收益辅助",
+    "platforms": ["Web"],
+    "version": null,
+    "public": false,
+    "repo": null,
+    "release": null,
+    "demo": null
+  }
+]
