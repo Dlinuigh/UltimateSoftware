@@ -13,7 +13,7 @@ macOS 顶栏：**发现 / 下载 / 曲库 / 歌单**。登录仅支持扫码。
 
 **Android**
 
-1. 从下方发行列表下载 `MusicDownloader-*-android.apk` 并安装。
+1. 从下方发行列表下载 `MusicDownloader-android-*.apk` 并安装。
 2. 允许未知来源（若系统提示）。
 
 **macOS 日常**
